@@ -1,1 +1,6 @@
-console.log("Hello, this is my Lab 03 NodeJS project!");
+const fs = require('fs');
+
+fs.writeFile('file.txt', 'Hello World!', function (err) {
+    if (err) throw err;
+    console.log('File saved!');
+});
