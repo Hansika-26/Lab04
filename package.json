@@ -1,0 +1,21 @@
+{
+  "name": "lab04",
+  "version": "1.0.0",
+  "description": "Lab 04  NodeJS Project",
+  "homepage": "https://github.com/Hansika-26/Lab04#readme",
+  "bugs": {
+    "url": "https://github.com/Hansika-26/Lab04/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hansika-26/Lab04.git"
+  },
+  "license": "ISC",
+  "author": "Kaumini Hansika",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "kaumini Hansika"
+  },
+  "keywords": []
+}
